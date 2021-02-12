@@ -1,0 +1,266 @@
+/* general: fonts, ... */
+
+.grey-bg {
+    background-color: lightgray;
+}
+
+.font-light {
+    color: white;
+}
+
+.bold-text { font-weight: bold; }
+
+.font-20 {
+    font-size: 20px;
+}
+
+.font-25 {
+    font-size: 25px;
+}
+
+.font-30 {
+    font-size: 30px;
+}
+
+.font-18 {
+    font-size: 18px;
+}
+
+.font-15 {
+    font-size: 15px;  
+}
+
+.font-35 {
+    font-size: 35;
+}
+
+
+/* Turn off parallax scrolling for tablets and phones */
+/* @media only screen and (max-device-width: 1024px) {
+
+    .bgimg {
+        background-attachment: scroll;
+    }
+} */
+
+
+body,
+html {
+    height: 100%;
+    margin: 0;
+    font-family: 'Oxygen';font-size: 22px;
+    color: #1d3557;
+}
+
+.back-button {
+    font-size: 13px;margin: auto;position: absolute;top: 20%;
+}
+
+/*MODULES*/
+
+.seperating-bar img {
+    position: absolute;top: 20%;
+}
+
+
+.carousel-item {
+    height: 400px;
+}
+
+.carousel-indicators li {
+    border-radius: 50%;
+    width: 12px;
+    height: 12px;
+    background-color:#1d3557;
+}
+
+.carousel-control-next-icon {
+    background-image : url("img/arrow_forward.png");
+}
+
+.carousel-control-prev-icon {
+        background-image : url("img/arrow_back.png");
+}
+
+.top-content .carousel-control-prev {
+    left: -110px;
+    border-bottom: 0;
+    font-size: 40px;
+    color: #444;
+}
+ 
+.top-content .carousel-control-next {
+    right: -110px;
+    border-bottom: 0;
+    font-size: 40px;
+    color: #444;
+}
+
+
+.feature-description {
+        /* position: absolute;
+        left: 30%; top: 10%; */
+    width:100%;
+    margin: 5%;
+    padding-top: 2%;
+    padding-left: 2%;
+    /* height: 500px; */
+    background-color: lightgray;
+}
+
+.feature-phone-image {
+    position: absolute;
+    left: 70%; top: 10%;
+    width: 30%;
+}
+
+
+/*landing page*/
+
+/* Modify brand and text color */ 
+.navbar-custom .navbar-brand, .nav-link,
+.nav, .navbar-custom .navbar-text { 
+    color: white; 
+} 
+
+ a:hover {
+    color: gray;
+}
+
+
+#landing-page-phones img {
+    width: 50%;
+    position: absolute;
+    bottom: 5vh;
+    left: 10vw;
+}
+
+#download-buttons {
+    width: 70%;
+    margin-top: 5vh;
+}
+
+#landing-page-description {
+    margin: 20px;
+}
+
+#landing-page-description img {
+    margin: auto;
+}
+
+/*trailer page*/
+
+#trailer-page p {
+    padding: 10px;
+}
+
+.trailer-bg {
+    background-color: #1d3557;
+}
+
+#trailer {
+    min-height: 80%;
+}
+
+#trailer-page img {
+    /* padding:5%; 
+    width:100%; */
+    width: 100%;
+    padding: 5%;
+
+    /* margin: auto; */
+}
+
+
+
+/*...*/
+
+.center-image {
+    display: block;
+    margin: auto;
+}
+
+.bgimg {
+    position: relative;
+    /* opacity: 0.65; */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100%;
+}
+
+.navbar a {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.student-bg {
+    background-image: url("img/mainCharacter.svg");
+    background-size: 20%;
+    background-position: 10% 50%;
+}
+
+.mentor-bg {
+    background-image: url("img/mentor.svg");
+    background-size: 20%;
+    background-position: 10% 50%;
+}
+
+.parent-bg {
+    background-position: 10% 50%;
+}
+
+.mother {
+    background-image: url("img/Mother.svg");
+    background-size: 17%;
+    background-position: 5% 25%;
+}
+
+.father {
+    background-image: url("img/Father.svg");
+    background-size: 20%;
+    background-position: 95% 20%;
+}
+
+.caption {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 33%;
+    text-align: center;
+    color: #000;
+}
+
+.caption span.border {
+    background-color: #111;
+    color: #fff;
+    padding: 18px;
+    font-size: 18px;
+    letter-spacing: 10px;
+}
+
+h3 {
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    font: 20px "Lato", sans-serif;
+    color: #111;
+}
+
+.bottom-bar  {
+    background-color: #1d3557;
+    min-height: 20%;
+    position: absolute;
+    bottom: 0;
+}
+
+.seperating-bar  {
+    background-color: #1d3557;
+    height: 20%;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+

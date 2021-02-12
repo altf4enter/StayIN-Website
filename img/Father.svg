@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 579 1216" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-2330,-597)">
+        <g id="Father" transform="matrix(0.476477,0,0,0.476477,2134.15,367.079)">
+            <g transform="matrix(-1.2641,0,0,1,2704.2,72.1573)">
+                <g id="leftArm">
+                    <path d="M1513.48,1389.19C1513.48,1389.19 1674.01,1376.47 1740.34,1641.01C1771.45,1765.07 1781.18,2040.29 1778.91,2167.34" style="fill:none;stroke:rgb(86,89,115);stroke-width:73.66px;"/>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,-195.494,73.4135)">
+                <g id="rightArm">
+                    <path d="M1513.48,1389.19C1513.48,1389.19 1674.01,1376.47 1740.34,1641.01C1771.45,1765.07 1781.18,2040.29 1778.91,2167.34" style="fill:none;stroke:rgb(86,89,115);stroke-width:83.95px;"/>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,-178.546,-208.983)">
+                <g id="rightLeg">
+                    <path d="M1310.77,1828.93L1310.77,3200.6L1461.15,3200.6" style="fill:none;stroke:rgb(86,89,115);stroke-width:83.95px;"/>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,-368.911,-214.104)">
+                <g id="leftLeg">
+                    <path d="M1310.77,1828.93L1310.77,3200.6L1146.72,3200.6" style="fill:none;stroke:rgb(86,89,115);stroke-width:83.95px;"/>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,0.634495,38.0849,655.347)">
+                <g id="torso">
+                    <path d="M674.971,1158.83L1325.74,1158.83C1325.74,1158.83 1498.6,2140.51 991.793,2134.68C530.042,2129.37 674.971,1158.83 674.971,1158.83Z" style="fill:rgb(135,197,221);"/>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1.35775,-187.401,-279.526)">
+                <g id="Head">
+                    <path d="M900.471,1230.09C850.604,1137.37 868.228,1035.18 862.563,936.595C858.668,871.43 892.137,808.059 954.795,761.96C954.779,761.948 954.78,761.948 954.78,761.947C1026.16,709.427 1123.26,680.295 1224.16,681.126C1325.05,681.956 1421.24,712.679 1491.01,766.361C1497.9,771.66 1504.58,776.796 1510.98,781.727C1556.5,816.748 1580.95,863.796 1578.81,912.251C1574.09,1017.05 1594.98,1127.71 1551.22,1230.09L900.471,1230.09Z" style="fill:rgb(255,222,185);"/>
+                </g>
+            </g>
+            <g id="Beard" transform="matrix(-1.09635,-1.34265e-16,1.68275e-16,-1.37407,1456.87,2226.95)">
+                <g transform="matrix(1,0,0,1,-854.929,-80.0987)">
+                    <ellipse cx="957.736" cy="744.259" rx="68.427" ry="65.984" style="fill:rgb(255,222,185);"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-888.002,-24.1286)">
+                    <ellipse cx="957.736" cy="744.259" rx="68.427" ry="65.984" style="fill:rgb(255,222,185);"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-776.726,-145.268)">
+                    <ellipse cx="957.736" cy="744.259" rx="68.427" ry="65.984" style="fill:rgb(255,222,185);"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-687.119,-171.335)">
+                    <ellipse cx="957.736" cy="744.259" rx="68.427" ry="65.984" style="fill:rgb(255,222,185);"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-589.365,-182.74)">
+                    <ellipse cx="957.736" cy="744.259" rx="68.427" ry="65.984" style="fill:rgb(255,222,185);"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-498.128,-172.964)">
+                    <ellipse cx="957.736" cy="744.259" rx="68.427" ry="65.984" style="fill:rgb(255,222,185);"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-400.375,-143.638)">
+                    <ellipse cx="957.736" cy="744.259" rx="68.427" ry="65.984" style="fill:rgb(255,222,185);"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-328.689,-96.3909)">
+                    <ellipse cx="957.736" cy="744.259" rx="68.427" ry="65.984" style="fill:rgb(255,222,185);"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-267.631,-27.7004)">
+                    <ellipse cx="957.736" cy="744.259" rx="68.427" ry="65.984" style="fill:rgb(255,222,185);"/>
+                </g>
+            </g>
+            <g id="leftEye" transform="matrix(1,0,0,1,644.074,77.4534)">
+                <g transform="matrix(1,0,0,1,-788.453,-80.2035)">
+                    <circle cx="1111.56" cy="917.966" r="67.195" style="fill:rgb(254,254,254);"/>
+                </g>
+                <g transform="matrix(1.47739,0,0,1.47739,-1425.8,-560.986)">
+                    <circle cx="1189.16" cy="948.746" r="25.144"/>
+                </g>
+            </g>
+            <g id="rightEye" transform="matrix(1,0,0,1,644.074,77.4534)">
+                <g transform="matrix(1,0,0,1,-649.727,-80.2035)">
+                    <circle cx="1111.56" cy="917.966" r="67.195" style="fill:rgb(254,254,254);"/>
+                </g>
+                <g transform="matrix(1.47739,0,0,1.47739,-1297.46,-560.986)">
+                    <circle cx="1189.16" cy="948.746" r="25.144"/>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,-167.465,-73.2733)">
+                <g id="leftEyebrow">
+                    <path d="M1084.12,881.917C1075.1,890.4 1096.31,860.71 1123.88,860.71C1151.45,860.71 1154.1,868.132 1161.52,876.085" style="fill:none;stroke:rgb(112,68,49);stroke-width:41.97px;"/>
+                </g>
+            </g>
+            <g transform="matrix(-0.893752,0,0,1,2110.21,-74.0148)">
+                <g id="rigthEyebrow">
+                    <path d="M1084.12,881.917C1075.1,890.4 1096.31,860.71 1123.88,860.71C1151.45,860.71 1154.1,868.132 1161.52,876.085" style="fill:none;stroke:rgb(112,68,49);stroke-width:44.26px;"/>
+                </g>
+            </g>
+            <g id="Mouth" transform="matrix(1,0,0,1,-192.388,-28.4421)">
+                <path d="M1016.76,1030.35C1034.96,1055.44 1110.24,1099.72 1229.81,1099.72C1349.38,1099.72 1424.16,1048.06 1451.23,1026.9" style="fill:none;stroke:rgb(201,162,144);stroke-width:83.95px;"/>
+                <path d="M1016.15,1028.92C1016.15,1028.92 1043.58,1099.45 1229.69,1099.45C1415.79,1099.45 1451.06,1025 1451.06,1025" style="fill:none;stroke:rgb(112,68,49);stroke-width:20.99px;"/>
+            </g>
+        </g>
+    </g>
+</svg>

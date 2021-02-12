@@ -1,0 +1,22 @@
+eye-catching landing page with key features, pricing, and more info at the bottom.
+Disclaimer at the bottom: This is a university project for a FAKE application. 
+We make no claims of copyright on the names or images.
+[ 1 2 3 4 5 ] Eye-Catching
+[ 1 2 3 4 5 ] Download Appeal (Usefulness / Motivated Problem / Intrigue)
+[ 1 2 3 4 5 ] Clarity of Key Features
+[ 1 2 3 4 5 ] Clarity and Completeness of Information
+
+key features: elternteil, mentor, schüler können sich anmelden
+
+
+landing page: 
+pricing: for free
+        download buttons app
+
+wer sind wir?
+
+schüler
+
+elternteil
+
+mentor
